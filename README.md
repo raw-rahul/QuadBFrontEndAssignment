@@ -1,4 +1,8 @@
-# Advanced React To-Do Application with API Integration
+# Advanced React To-Do Application with Weather Integration 🌦️✅
+
+## 🚀 Live Demo
+Experience the full application here:  
+👉 [Live Demo](https://quad-b-front-end-assignment.vercel.app/) 👈
 
 ## 📌 Project Overview
 This project is an advanced **To-Do Application** built with **React** that integrates a **Weather API**, implements **Redux for state management**, and ensures **responsiveness** for mobile and desktop users. It also includes **user authentication** (mocked) and **task prioritization** features.
@@ -18,11 +22,6 @@ This project is an advanced **To-Do Application** built with **React** that inte
 - **API**: OpenWeather API
 - **State Management**: Redux
 
-**💎 Live Demo**
-
-The project is deployed and accessible at: https://quad-b-front-end-assignment.vercel.app/
-
-
 ## 📸 Screenshots
 **Login Page**
 
@@ -37,7 +36,6 @@ The project is deployed and accessible at: https://quad-b-front-end-assignment.v
 
 **Tablet View**
 ![image](https://github.com/user-attachments/assets/2f81c821-37fb-4575-8a12-8749b948bf5f)
-
 
 
 
