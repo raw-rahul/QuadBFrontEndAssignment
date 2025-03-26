@@ -49,7 +49,7 @@ const LogoutButton = styled.button`
     margin-bottom: 30px;
     display: block;
   }
-  @media (max-width: 1024px) {
+  @media (min-width: 768px) and (max-width: 1024px)  {
     position: relative;
     width: 20%;
     left: 620px;
