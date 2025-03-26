@@ -18,6 +18,10 @@ This project is an advanced **To-Do Application** built with **React** that inte
 - **API**: OpenWeather API
 - **State Management**: Redux
 
+💎 Live Demo
+
+The project is deployed and accessible at: https://quad-b-front-end-assignment.vercel.app/
+
 
 ## 📸 Screenshots
 **Login Page**
