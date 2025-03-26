@@ -21,16 +21,18 @@ This project is an advanced **To-Do Application** built with **React** that inte
 
 ## 📸 Screenshots
 -Login Page
-![image](https://github.com/user-attachments/assets/5bf011d4-7060-4d2f-bfa7-06e7aedbdabc)
+
+![Screenshot 2025-03-26 154027](https://github.com/user-attachments/assets/38df3b8a-d0a6-40bd-a931-7a185e225e78)
 
 -ToDo Application
-![image](https://github.com/user-attachments/assets/0a4a5b7f-d5ac-4b62-b902-0e2ada053f7d)
+![Screenshot 2025-03-26 154441](https://github.com/user-attachments/assets/9039215b-02e5-4d17-81f1-ff518322b322)
 
 -Mobile View
-![image](https://github.com/user-attachments/assets/811ec1d0-15e7-4579-90bc-119d1067f163)
+![Screenshot 2025-03-26 154702](https://github.com/user-attachments/assets/7fca703e-2a68-4b93-b4a8-45b48642a89a)
+
 
 -Tablet View
-![image](https://github.com/user-attachments/assets/5cdf8861-b5d6-4993-a0a9-e130fec46807)
+![image](https://github.com/user-attachments/assets/2f81c821-37fb-4575-8a12-8749b948bf5f)
 
 
 
