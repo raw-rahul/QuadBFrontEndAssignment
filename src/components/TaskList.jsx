@@ -3,6 +3,7 @@ import { useSelector, useDispatch } from "react-redux";
 import { deleteTask } from "../features/task/taskSlice.js";
 import styled from "styled-components";
 
+
 const Container = styled.div`
   background: #2c3e50;
   border-radius: 10px;
